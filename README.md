@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Mi nombre es Daniel en la Ciberseguridad me conocen como f3n1x</h1>
+<h1 align="center">Hola 👋, Mi nombre es Daniel, en la Ciberseguridad me conocen como f3n1x</h1>
 <h3 align="center">🛡️ Ciberseguridad, 🥷 Hacking, 🔴 Red Team </h3>
 
 <h3 align="left">Conéctate conmigo:</h3>
